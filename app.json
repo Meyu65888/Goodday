@@ -1,8 +1,8 @@
 {
-  "name": "vmess or vles",
-  "description": "vmess or vles",
+  "name": "press or vls",
+  "description": "press or vls",
   "keywords": [
-    "vmess or vles"
+    "press or vls"
   ],
   "env": {
     "PROTOCOL": {
@@ -16,8 +16,8 @@
       "required": false
     } 
   },
-  "website": "https://github.com/louyour/ngix-fixed",
-  "repository": "https://github.com/louyour/ngix-fixed",
+  "website": "https://github.com/Meyu65888/Goodday",
+  "repository": "https://github.com/Meyu65888/Goodday",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
